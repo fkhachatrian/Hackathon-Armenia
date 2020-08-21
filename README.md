@@ -9,9 +9,9 @@ https://github.com/zapproject/Hackathon-Armenia/tree/master/frontend
 
 Feel free to provide expanded interface as needed.
 
-Projects will be rated on performance, ingenuity, and scalable patterning
+*Projects will be rated on performance, ingenuity, and scalable patterning
 
-Serious bonuses for features like
+_Serious bonuses for features like_
     novel interface,
     SSL verification of oracle data,
     multiple data sources for oracles, fallback etc,
